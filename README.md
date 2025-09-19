@@ -33,9 +33,11 @@ The **Student Attendance System** is a web application developed with **React** 
 
 ### Take Attendance CSE-A
 ![Take Attendance CSE-A](screenshorts/takeAttendancecse-a.png)
+*Interface where teachers can mark attendance for CSE-A students.*
 
 ### Take Attendance CSE-B
 ![Take Attendance CSE-B](screenshorts/takeAttendancecse-b.png)
+*Interface where teachers can mark attendance for CSE-B students.*
 
 ### Attendance Summary
 ![Attendance Summary](screenshorts/AttendanceSummary.png)
