@@ -10,7 +10,7 @@ The **Student Attendance System** is a web application developed with **React** 
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend**: React.js, React Router, Hooks, Components  
+- **Frontend**: React.js, React Router, Hooks, Components,API fetching 
 - **Styling**: CSS  
 - **Version Control**: Git & GitHub  
 
