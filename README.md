@@ -61,6 +61,17 @@ Teachers enter their credentials on the login page. After a successful login, th
 ![Overall Attendance](screenshorts/OverallAttendance.png)  
 *Shows the overall class attendance percentage for all students across all sections.*
 
+#### Student Dashboard 1
+![Student Dashboard 1](screenshorts/StudentDashboard1.png)  
+*Main dashboard for students, showing a quick overview of today’s attendance and available sections.*
+
+#### Student Dashboard 2
+![Student Dashboard 2](screenshorts/StudentDashboard2.png)  
+*Displays detailed attendance for the student, including who is present and absent for each section.*
+
+#### Student Dashboard 3
+![Student Dashboard 3](screenshorts/StudentDashboard3.png)  
+
 ### Contact Page
 ![Contact Page](screenshorts/contact.png)  
 *This page displays the contact information of teachers, such as email, phone number, or other relevant details, so that students can get in touch with them.*
