@@ -1,0 +1,20 @@
+
+  [
+    { "regdNo": "21A21A05D0", "name": "prasanth", "present": false },
+    { "regdNo": "21A21A05D1", "name": "sai", "present": true },
+    {"regdNo": "21A21A05D2", "name": "bunny", "present": false },
+    { "regdNo": "21A21A05D3", "name": "vinod", "present": false },
+    { "regdNo": "21A21A05D4", "name": "varma", "present": false },
+    { "regdNo": "21A21A05D5", "name": "steven", "present": true },
+    { "regdNo": "21A21A05D6", "name": "sumanth", "present": true },
+    {"regdNo": "21A21A05D7", "name": "eswar", "present": false },
+    { "regdNo": "21A21A05D8", "name": "siva", "present": true },
+    { "regdNo": "21A21A05D9", "name": "uday", "present": true },
+    { "regdNo": "21A21A05E0", "name": "bhanu", "present": true },
+    { "regdNo": "21A21A05E1", "name": "ram", "present": true },
+    {"regdNo": "21A21A05E2", "name": "sanjay", "present": false },
+    { "regdNo": "21A21A05E3", "name": "vikas", "present": true },
+    { "regdNo": "21A21A05E4", "name": "surya", "present": true }
+
+
+  ]

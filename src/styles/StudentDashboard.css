@@ -1,0 +1,21 @@
+.dashboard-container {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.student-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.student-table th,
+.student-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.student-table th {
+  background-color: #f2f2f2;
+}

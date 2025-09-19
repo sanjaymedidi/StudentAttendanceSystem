@@ -1,0 +1,89 @@
+/* Container for two-column layout */
+.intro-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px;
+  gap: 50px;
+}
+
+/* Left side */
+.intro {
+  flex: 1;
+}
+
+.line {
+  font-size: 18px;
+  color: #666;
+}
+
+.intro-title {
+  font-size: 46px;
+  line-height: 1.2;
+  color: #222;
+}
+
+.name {
+  color: #ff4d4d;
+  font-weight: bold;
+}
+
+/* Right side - Login box */
+.login-box {
+  flex: 1;
+  max-width: 350px;
+  padding: 30px;
+  background: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.673);
+}
+
+.login-box h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label {
+  margin-bottom: 5px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #333;
+}
+
+.form-group input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+}
+
+.form-group input:focus {
+  border-color: #ff4d4d;
+}
+
+/* Login button */
+.btn {
+  width: 100%;
+  padding: 12px;
+  background: #ff4d4d;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 17px;
+  cursor: pointer;
+  transition: background 0.3s;
+  font-family: 'Inter', sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.btn:hover {
+  background: white;
+  color: #e63939;
+  box-shadow: 0 4px 8px rgb(235, 52, 52);
+}
