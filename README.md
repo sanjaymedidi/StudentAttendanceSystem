@@ -34,6 +34,8 @@ Teachers enter their credentials on the login page. After a successful login, th
 ### Take Attendance CSE-A
 ![Take Attendance CSE-A](screenshorts/takeAttendancecse-a.png)  
 *Interface for marking attendance of students in CSE-A section.*
+**Other Sections**  
+   Teachers can switch to other sections (CSE-B or CSE-C) to take attendance and view summaries similarly.
 
 ### Attendance Summary CSE-A
 ![Attendance Summary CSE-A](screenshorts/AttendanceSummarycse-a.png)  
