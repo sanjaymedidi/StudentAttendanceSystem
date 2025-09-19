@@ -63,4 +63,4 @@ Teachers enter their credentials on the login page. After a successful login, th
 
 ### Contact Page
 ![Contact Page](screenshorts/contact.png)  
-*Page to manage contact information of students or teachers.*
+*This page displays the contact information of teachers, such as email, phone number, or other relevant details, so that students can get in touch with them.*
