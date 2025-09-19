@@ -29,7 +29,7 @@ The **Student Attendance System** is a web application developed with **React** 
 
 ### Login Page
 ![Login Page](screenshorts/LoginPage.png)  
-*The login page where teachers enter their credentials to access the system.*
+Teachers enter their credentials on the login page. After a successful login, they are redirected to the **Take Attendance** page.
 
 ### Take Attendance CSE-A
 ![Take Attendance CSE-A](screenshorts/takeAttendancecse-a.png)  
