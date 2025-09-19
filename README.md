@@ -28,22 +28,37 @@ The **Student Attendance System** is a web application developed with **React** 
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshorts/LoginPage.png)
-*This is the login page where teachers enter their credentials to access the system.*
+![Login Page](screenshorts/LoginPage.png)  
+*The login page where teachers enter their credentials to access the system.*
 
 ### Take Attendance CSE-A
-![Take Attendance CSE-A](screenshorts/takeAttendancecse-a.png)
-*Interface where teachers can mark attendance for CSE-A students.*
+![Take Attendance CSE-A](screenshorts/takeAttendancecse-a.png)  
+*Interface for marking attendance of students in CSE-A section.*
+
+### Attendance Summary CSE-A
+![Attendance Summary CSE-A](screenshorts/AttendanceSummarycse-a.png)  
+*This summary appears when the teacher clicks "View Summary" after taking attendance. It shows detailed attendance records for CSE-A students.*
 
 ### Take Attendance CSE-B
-![Take Attendance CSE-B](screenshorts/takeAttendancecse-b.png)
-*Interface where teachers can mark attendance for CSE-B students.*
+![Take Attendance CSE-B](screenshorts/takeAttendancecse-b.png)  
+*Interface for marking attendance of students in CSE-B section.*
 
-### Attendance Summary
-![Attendance Summary](screenshorts/AttendanceSummary.png)
+### Attendance Summary CSE-B
+![Attendance Summary CSE-B](screenshorts/AttendanceSummarycse-b.png)  
+*This summary appears when the teacher clicks "View Summary" after taking attendance. It shows detailed attendance records for CSE-B students.*
 
-### CSE Attendance Summary
-![CSE Attendance Summary](screenshorts/cseAttendanceSummary.png)
+### Take Attendance CSE-C
+![Take Attendance CSE-C](screenshorts/takeAttendancecse-c.png)  
+*Interface for marking attendance of students in CSE-C section.*
+
+### Attendance Summary CSE-C
+![Attendance Summary CSE-C](screenshorts/AttendanceSummarycse-c.png)  
+*This summary appears when the teacher clicks "View Summary" after taking attendance. It shows detailed attendance records for CSE-C students.*
+
+### Overall Attendance
+![Overall Attendance](screenshorts/OverallAttendance.png)  
+*Shows the overall class attendance percentage for all students across all sections.*
 
 ### Contact Page
-![Contact Page](screenshorts/contact.png)
+![Contact Page](screenshorts/contact.png)  
+*Page to manage contact information of students or teachers.*
