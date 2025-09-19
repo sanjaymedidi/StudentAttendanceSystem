@@ -27,20 +27,20 @@ The **Student Attendance System** is a web application developed with **React** 
 
 ## Screenshots
 
-### Attendance Summary
-![Attendance Summary](screenshorts/AttendanceSummary.png)
-
 ### Login Page
 ![Login Page](screenshorts/LoginPage.png)
-
-### Contact Page
-![Contact Page](screenshorts/contact.png)
-
-### CSE Attendance Summary
-![CSE Attendance Summary](screenshorts/cseAttendanceSummary.png)
 
 ### Take Attendance CSE-A
 ![Take Attendance CSE-A](screenshorts/takeAttendancecse-a.png)
 
 ### Take Attendance CSE-B
 ![Take Attendance CSE-B](screenshorts/takeAttendancecse-b.png)
+
+### Attendance Summary
+![Attendance Summary](screenshorts/AttendanceSummary.png)
+
+### CSE Attendance Summary
+![CSE Attendance Summary](screenshorts/cseAttendanceSummary.png)
+
+### Contact Page
+![Contact Page](screenshorts/contact.png)
